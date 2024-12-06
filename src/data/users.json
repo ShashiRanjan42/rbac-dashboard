@@ -1,0 +1,5 @@
+[
+    {"id": 1, "username": "Shashi Ranjan", "email": "shashi@gmail.com", "status": "Active", "roles": ["Admin"]},
+    {"id": 2, "username": "Ranjan Shashi", "email": "ranjan@gmail.com", "status": "Inactive", "roles": ["User"]}
+  ]
+  
