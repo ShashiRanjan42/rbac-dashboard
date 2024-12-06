@@ -63,7 +63,7 @@ Please read [CONTRIBUTING.md](link to CONTRIBUTING.md) for details on our code o
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](repository link).
 
 #### Authors
-- **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
+- **Your Name** - *Initial work* - [ShashiRanjan42](https://github.com/ShashiRanjan42)
 
 #### License
 This project is licensed under the [MIT License](LICENSE.md).
