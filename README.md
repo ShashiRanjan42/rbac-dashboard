@@ -27,7 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 ##### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/yourusername/vrv-security-rbac-ui.git
+   https://github.com/ShashiRanjan42/rbac-dashboard.git
    ```
 2. Install NPM packages
    ```sh
