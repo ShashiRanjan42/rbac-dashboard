@@ -2,7 +2,7 @@
 #### Project Title: VRV Security RBAC Admin Dashboard
 
 #### Introduction
-This project is designed to showcase a Role-Based Access Control (RBAC) User Interface, aimed at managing users, roles, and permissions within an admin dashboard. Developed for VRV Security, this interface facilitates efficient and secure user and role management and is built with [Name of Framework/Library, e.g., React, Angular, Vue] to ensure a robust, responsive, and user-friendly experience.
+This project is designed to showcase a Role-Based Access Control (RBAC) User Interface, aimed at managing users, roles, and permissions within an admin dashboard. Developed for VRV Security, this interface facilitates efficient and secure user and role management and is built with React to ensure a robust, responsive, and user-friendly experience.
 
 #### Features
 - **User Management**: Supports viewing, adding, editing, and deleting users. Users can be assigned roles and toggled between active/inactive states.
@@ -12,10 +12,10 @@ This project is designed to showcase a Role-Based Access Control (RBAC) User Int
 - **Custom API Simulation**: Implements mock API calls for CRUD operations, simulating server responses to validate functionality.
 
 #### Technologies Used
-- **Frontend**: [e.g., React.js, Redux for state management]
-- **Styling**: [e.g., Bootstrap, Material-UI]
-- **API Simulation**: [e.g., Axios with JSON Server/MirageJS]
-- **Other Libraries**: [e.g., Formik for form handling, Yup for validation]
+- **Frontend**: React.js
+- **Styling**: CSS
+- **API Simulation**: None
+
 
 #### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
